@@ -25,7 +25,6 @@ The data used in this project is sourced from a Netflix user dataset, which incl
 
 To explore the Tableau workbook, open the `Netflix Data Utilization.twb` file in Tableau Desktop. Interact with the dashboards to gain insights into Netflix content and viewer preferences.
 
-For a detailed explanation of this project, please visit my [portfolio website](http://your-portfolio-link.com).
 
 ## Certification
 
